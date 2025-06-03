@@ -1,0 +1,40 @@
+                   Parte 1 – Teórica (1,0 ponto – 0,1 cada questão)
+
+1. Explique, com suas palavras, as quatro fases principais da metodologia RAD.
+Em que momento o envolvimento dos usuários é mais crítico?
+
+Primeira: FASES: planejamento de requisitos, design do usuário, construção e transição;
+
+Planejamento de requisitos - primeira fase devido ao conhecimento daquilo que se planeja fazer no projeto.
+Momento onde gerentes, usuários e os desenvolvedores iram se reunir para entender como será planejada a estrutura
+do projeto, desde o escopo até os requisitos que sistema terá ao final;
+
+Design do usuário - Momento de criação de exemplos de protótipos de como será o sistema envolvendo as ideias discutidas
+pelos desenvolvedores e usuários para juntar os dois mundos em um sistema. Durante esse processo , os desenvolvedores
+utilizam de métodos como JAD e CASE para elaborar modelos para o usuário;
+
+Construção - É a fase onde acontece o desenvolvimento do protótipo aceito pelo usuário. Durante esse processo, os desenvolvedores
+iniciam a criação do sistema com todas as ideias implementadas descritas pelo usuário para logo após a conclusão, ser repassado ao 
+usuário os primeiros resultados, pois é nesse momento que ocorre alterações por parte do próprio usuário se deseja alterar algo 
+sobre as telas, ajustes de fontes, abas, imagens, tamanhos e modelagem do sistema, ficando cada vez mais próximo do resultado 
+esperado pelo usuário;
+
+Transição - Fase final onde é feito a transição do processamento dos dados, organizando as informações que serão de suma 
+    importância e sua coleta, os testes são feitos nesse momento como uma última checagem antes da entrega, e esses testes
+    são das funcionalidades, segurança e sua interação feita pelo usuário. Assim, assegurando que todas as operações serão 
+    repassadas para o usuário de forma segura e claro, o usuário aprender a usar o sistema;
+
+
+O momento de importância do usuário é durante a construção do sistema. É uma fase onde ele dará a ordem final se está conforme 
+ele deseja que o sistema esteja, com suas devidas alterações quaisquer que sejam para que os desenvolvedores façam a alteração.    
+
+
+2. Diferencie os conceitos de prototipagem descartável e prototipagem evolutiva. Qual delas é mais comum na RAD?
+3. Cite três vantagens da metodologia RAD em comparação com o modelo cascata tradicional. Justifique cada uma com um exemplo.
+4. Descreva o papel das sessões JAD no levantamento de requisitos da RAD. Quais os benefícios dessa prática colaborativa?
+5. Como a RAD lida com mudanças de requisitos durante o desenvolvimento? Dê um exemplo realista de situação em que isso seria vantajoso.
+6. Quais são as principais ferramentas e frameworks que podem ser utilizadas em projetos RAD com Python? Comente brevemente pelo menos dois.
+7. O que é uma API e qual sua relação com o desenvolvimento rápido de aplicações (RAD)?
+8. No contexto de uma API com Flask, explique o que são os métodos GET e POST e quando cada um deve ser usado.
+9. De acordo com o conteúdo estudado, por que o uso de protótipos com feedback contínuo melhora a qualidade do software?
+10. Com base nos conceitos apresentados nos PDFs, descreva um cenário real onde o uso de RAD com Flask seria mais indicado do que outras abordagens tradicionais.
