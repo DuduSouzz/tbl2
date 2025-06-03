@@ -14,7 +14,8 @@ pelos desenvolvedores e usuários para juntar os dois mundos em um sistema. Dura
 utilizam de métodos como JAD e CASE para elaborar modelos para o usuário;
 
 Construção - É a fase onde acontece o desenvolvimento do protótipo aceito pelo usuário. Durante esse processo, os desenvolvedores
-iniciam a criação do sistema com todas as ideias implementadas descritas pelo usuário para logo após a conclusão, ser repassado ao 
+iniciam a criação do sistema com todas as ideias implementadas descritas pelo usuário e ao mesmo tempo ter a presença do usuário para possíveis alterações
+ser repassado ao 
 usuário os primeiros resultados, pois é nesse momento que ocorre alterações por parte do próprio usuário se deseja alterar algo 
 sobre as telas, ajustes de fontes, abas, imagens, tamanhos e modelagem do sistema, ficando cada vez mais próximo do resultado 
 esperado pelo usuário;
@@ -30,6 +31,9 @@ ele deseja que o sistema esteja, com suas devidas alterações quaisquer que sej
 
 
 2. Diferencie os conceitos de prototipagem descartável e prototipagem evolutiva. Qual delas é mais comum na RAD?
+
+
+
 3. Cite três vantagens da metodologia RAD em comparação com o modelo cascata tradicional. Justifique cada uma com um exemplo.
 4. Descreva o papel das sessões JAD no levantamento de requisitos da RAD. Quais os benefícios dessa prática colaborativa?
 5. Como a RAD lida com mudanças de requisitos durante o desenvolvimento? Dê um exemplo realista de situação em que isso seria vantajoso.
